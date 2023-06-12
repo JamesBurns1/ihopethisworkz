@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This was my first ever web dev tutorial project that I followed through Corsera via University of Michigan
 <!--
 **ihopethisworkz/ihopethisworkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
